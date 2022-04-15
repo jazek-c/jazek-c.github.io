@@ -5,4 +5,3 @@
 layout: home 
 ---
 
-This should be the home page

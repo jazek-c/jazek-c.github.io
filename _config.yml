@@ -28,6 +28,7 @@ twitter_username: Jazek
 github_username:  jazek-c
 
 # Build settings
+
 theme: minima
 plugins:
   - jekyll-feed
