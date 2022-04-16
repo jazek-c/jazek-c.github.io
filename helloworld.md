@@ -7,7 +7,12 @@ permalink: /hello-world/
 
 # This is a page heading
 
-'and this is code'
+```swift
+{
+    var animae: String = "Something"
+}
+```
 
-Check one two one
+# [That Menu App](https://www.thatmenuapp.com)
 
+# ![logo](assets/images/midPixelLogotest.png)
