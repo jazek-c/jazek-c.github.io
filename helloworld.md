@@ -12,7 +12,7 @@ permalink: /hello-world/
     var animae: String = "Something"
 }
 ```
-
+<!-- 
 # [That Menu App](https://www.thatmenuapp.com)
 
-# ![logo](assets/images/midPixelLogotest.png)
+# ![logo](assets/images/midPixelLogotest.png) -->

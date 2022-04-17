@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Put a high-level resume/cv
+"summary of experience"
