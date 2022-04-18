@@ -1,7 +1,7 @@
 ---
 layout: recent-posts
-title: hello world
-permalink: /hello-world/
+title: blog
+permalink: /blog/
 ---
 
 
