@@ -1,5 +1,5 @@
 ---
-layout: recent-posts
+layout: page
 title: blog
 permalink: /blog/
 ---
