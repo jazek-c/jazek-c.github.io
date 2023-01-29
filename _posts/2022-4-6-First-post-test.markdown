@@ -7,6 +7,6 @@ categories: testing
 
 First blog post
 
-Just checking the functionality
+Testing Functionality etc...
 
 "testing live reload"
