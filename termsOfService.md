@@ -4,17 +4,19 @@ title: Terms of Service
 permalink: /terms-of-service/
 ---
 
-PRESHIFTER LLC’S TERMS OF SERVICE
-INTRODUCTION
-Welcome to PreShifter, a comprehensive app designed specifically for the restaurant industry to streamline team communications, daily operational updates, and task management. PreShifter enables restaurant managers, owners, and staff to collaborate effectively through team administrative tools, real-time messaging, pre-shift operation builders, and menu management capabilities. Whether assigning tasks, publishing important announcements, or enhancing operational efficiency, PreShifter offers an integrated platform to improve restaurant operations and foster team cohesion.
+# PRESHIFTER LLC’S TERMS OF SERVICE
+## INTRODUCTION
+Welcome to **PreShifter**, a comprehensive app designed specifically for the restaurant industry to streamline team communications, daily operational updates, and task management. PreShifter enables restaurant managers, owners, and staff to collaborate effectively through team administrative tools, real-time messaging, pre-shift operation builders, and menu management capabilities. Whether assigning tasks, publishing important announcements, or enhancing operational efficiency, PreShifter offers an integrated platform to improve restaurant operations and foster team cohesion.
+--- 
 PreShifter is developed and operated by PRESHIFTER LLC, a company dedicated to creating innovative solutions for the restaurant industry. We aim to provide powerful, user-friendly tools for seamless restaurant team management and communication. PRESHIFTER LLC is a legally registered business with its principal place of business located at 418 Broadway, Suite 5958, Albany, NY 12207
 By accessing and using the PreShifter app, you ("User") agree to be bound by these Terms of Service ("Terms"). These Terms govern your use of the PreShifter app, including all content, features, and services it offers. If you disagree with these Terms, you may not access or use the PreShifter app.
 By creating an account, either as an employee/teammate or an admin/restaurant owner, and using the services offered, you confirm that you have read, understood, and accepted these Terms. PRESHIFTER LLC reserves the right to modify, update, or replace any part of these Terms at its sole discretion. You will be notified of any changes, and your continued use of the app after such modifications signifies your acceptance of the revised Terms. If you disagree with any modifications, you should discontinue using the PreShifter app.
-USER ELIGIBILITY AND ACCOUNT REGISTRATION
-2.1 User Eligibility Criteria
+## USER ELIGIBILITY AND ACCOUNT REGISTRATION
+### 2.1 User Eligibility Criteria
 To access and use the PreShifter app, users must be at least 18 years old or the age of majority in their jurisdiction to create an account and use the services provided by PreShifter. If you are under 18 years old, you may not register for an account or use the app. Users must comply with all applicable laws and regulations while using the app and must not use the app for any unlawful purposes.
 The app is intended for use by restaurant industry employees, including, but not limited to, restaurant owners, managers, and staff members.
-2.2 Account Creation and Responsibilities
+---
+### 2.2 Account Creation and Responsibilities
 To use the PreShifter app, users must create an account by providing accurate and complete information during registration. 
 You must provide valid and up-to-date personal information, including your first and last name, username, email address, and other details as required by the app’s registration process. Inaccurate or incomplete information may result in suspension or termination of your account.
 You are responsible for maintaining the confidentiality of your account credentials, including your password. You agree to notify PreShifter immediately of any unauthorized use of your account or any other security breach. PRESHIFTER LLC is not liable for any loss or damage arising from your failure to protect your account information.
