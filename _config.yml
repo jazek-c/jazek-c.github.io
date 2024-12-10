@@ -18,10 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: PreShifter Static Assets
+
+
+title: PreShifter LLC Static Assets
 email: support@preshifter.com
 description: >- # this means to ignore newlines until "baseurl:"
- If you're looking for the PreShifter product/company site please visit [preshifter.com](https://www.preshifter.com/)
+ If you're looking for the PreShifter product/company site please visit preshifter.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jazek-c.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: PreShifter
