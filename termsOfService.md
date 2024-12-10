@@ -5,7 +5,7 @@ permalink: /terms-of-service/
 ---
 
 # PRESHIFTER LLC’S TERMS OF SERVICE
-## INTRODUCTION
+## 1. INTRODUCTION
 Welcome to **PreShifter**, a comprehensive app designed specifically for the restaurant industry to streamline team communications, daily operational updates, and task management. PreShifter enables restaurant managers, owners, and staff to collaborate effectively through team administrative tools, real-time messaging, pre-shift operation builders, and menu management capabilities. Whether assigning tasks, publishing important announcements, or enhancing operational efficiency, PreShifter offers an integrated platform to improve restaurant operations and foster team cohesion.
 
 
@@ -18,28 +18,54 @@ By accessing and using the PreShifter app, you ("User") agree to be bound by the
 By creating an account, either as an employee/teammate or an admin/restaurant owner, and using the services offered, you confirm that you have read, understood, and accepted these Terms. PRESHIFTER LLC reserves the right to modify, update, or replace any part of these Terms at its sole discretion. You will be notified of any changes, and your continued use of the app after such modifications signifies your acceptance of the revised Terms. If you disagree with any modifications, you should discontinue using the PreShifter app.
 
 
-## USER ELIGIBILITY AND ACCOUNT REGISTRATION
+## 2. USER ELIGIBILITY AND ACCOUNT REGISTRATION
 ### 2.1 User Eligibility Criteria
-To access and use the PreShifter app, users must be at least 18 years old or the age of majority in their jurisdiction to create an account and use the services provided by PreShifter. If you are under 18 years old, you may not register for an account or use the app. Users must comply with all applicable laws and regulations while using the app and must not use the app for any unlawful purposes. <br\> 
+To access and use the PreShifter app, users must be at least 18 years old or the age of majority in their jurisdiction to create an account and use the services provided by PreShifter. If you are under 18 years old, you may not register for an account or use the app. Users must comply with all applicable laws and regulations while using the app and must not use the app for any unlawful purposes.
+
+
 The app is intended for use by restaurant industry employees, including, but not limited to, restaurant owners, managers, and staff members.
----
+
 ### 2.2 Account Creation and Responsibilities
 To use the PreShifter app, users must create an account by providing accurate and complete information during registration. 
+
+
 You must provide valid and up-to-date personal information, including your first and last name, username, email address, and other details as required by the app’s registration process. Inaccurate or incomplete information may result in suspension or termination of your account.
+
+
 You are responsible for maintaining the confidentiality of your account credentials, including your password. You agree to notify PreShifter immediately of any unauthorized use of your account or any other security breach. PRESHIFTER LLC is not liable for any loss or damage arising from your failure to protect your account information.
+
+
 Each user is permitted to have one account tied to their personal information. Admins and employees can only create multiple accounts for the same person if PreShifter authorizes them.
-2.3 User Role Assignment and Management
+
+
+### 2.3 User Role Assignment and Management
 PreShifter offers distinct roles with specific access permissions and functionalities:
-a. Admin Role Creation: The account creator becomes the admin when creating or registering a restaurant within the PreShifter app. This role includes managing team members, editing or deleting content, approving or denying pre-shift items, and accessing additional management features. Only one admin can be per restaurant, and this role may only be transferred or reassigned with explicit permission from PreShifter.
-b. Employee/Teammate Role: Individuals who join a restaurant team through an invite or approval by the admin assume the role of Employee/Teammate. This role provides access to key features, including viewing team chats, interacting with pre-shift and menu management functionalities, and contributing content. Employees are expected to use the app for restaurant-related purposes only and adhere to all usage guidelines established by the Admin.
-c. Role Modifications and Termination: The Admin has full authority to modify user roles, approve or deny join requests, and suspend or terminate users’ access to the restaurant’s PreShifter account. Any changes to user roles must comply with these Terms and be made in good faith to facilitate operational efficiency and team collaboration.
-SCOPE OF SERVICES
-3.1 Team Admin Tools
+
+
+**a. Admin Role Creation:** The account creator becomes the admin when creating or registering a restaurant within the PreShifter app. This role includes managing team members, editing or deleting content, approving or denying pre-shift items, and accessing additional management features. Only one admin can be per restaurant, and this role may only be transferred or reassigned with explicit permission from PreShifter.
+
+
+**b. Employee/Teammate Role:** Individuals who join a restaurant team through an invite or approval by the admin assume the role of Employee/Teammate. This role provides access to key features, including viewing team chats, interacting with pre-shift and menu management functionalities, and contributing content. Employees are expected to use the app for restaurant-related purposes only and adhere to all usage guidelines established by the Admin.
+
+
+**c. Role Modifications and Termination:** The Admin has full authority to modify user roles, approve or deny join requests, and suspend or terminate users’ access to the restaurant’s PreShifter account. Any changes to user roles must comply with these Terms and be made in good faith to facilitate operational efficiency and team collaboration.
+
+
+## 3. SCOPE OF SERVICES
+### 3.1 Team Admin Tools
 The PreShifter app provides robust tools for Admins (typically restaurant owners or managers) to manage their restaurant teams effectively. These tools include:
-a. User Management: Admins can search for employees who have created accounts with PreShifter by name. This search functionality provides results, including the employee’s image, first and last name, and username. Admins may invite employees to join the restaurant’s team or respond to join requests sent by employees.
-b. Invitation Management: Admins can accept or decline employee requests to join the team. Once accepted, the employee becomes part of the admin’s team and gains access to various features of the PreShifter app.
-c. Teammate Removal: Admins can remove employees from the team anytime, terminating their access to the restaurant’s content and app features.
-3.2 Team Chat Features
+
+
+**a. User Management:** Admins can search for employees who have created accounts with PreShifter by name. This search functionality provides results, including the employee’s image, first and last name, and username. Admins may invite employees to join the restaurant’s team or respond to join requests sent by employees.
+
+
+**b. Invitation Management:** Admins can accept or decline employee requests to join the team. Once accepted, the employee becomes part of the admin’s team and gains access to various features of the PreShifter app.
+
+
+**c. Teammate Removal:** Admins can remove employees from the team anytime, terminating their access to the restaurant’s content and app features.
+
+
+### 3.2 Team Chat Features
 The Team Chat operates as a centralized message board where all teammates, including the admin, can share text-based messages and images. All communications are visible to the entire team, with no one-to-one messaging functionality.
 Admins can delete or clear the chat history to maintain an appropriate communication environment. Users are encouraged to engage respectfully and comply with the Acceptable Use Policy outlined in these Terms.
 3.3 Pre-shift Builder Functionality
