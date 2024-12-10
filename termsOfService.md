@@ -307,11 +307,11 @@ PRESHIFTER LLC reserves the right to suspend or terminate user accounts and acce
 Upon the suspension or termination of your account:
 
 
-Your right to access and use the PreShifter app, including all related content and features, will cease immediately.
+- Your right to access and use the PreShifter app, including all related content and features, will cease immediately.
 We reserve the right to delete any data, content, or information associated with your account. However, certain data may be retained in accordance with our data retention policies or applicable legal obligations. Any fees paid for subscriptions, services, or features may be non-refundable, except as required by applicable law or at our sole discretion.
 
 
-PRESHIFTER LLC has sole discretion over account suspension or termination. We reserve the right to take actions necessary to maintain the app’s safety, integrity, and intended use, including temporary or permanent restrictions, as appropriate.
+- PRESHIFTER LLC has sole discretion over account suspension or termination. We reserve the right to take actions necessary to maintain the app’s safety, integrity, and intended use, including temporary or permanent restrictions, as appropriate.
 
 
 ## 10. INTELLECTUAL PROPERTY RIGHTS
@@ -332,7 +332,7 @@ Users may contribute content to the PreShifter app, such as messages, pre-shift 
 - Users represent and warrant that they have all necessary rights to submit or share the content within the app and that their contributions do not violate applicable laws, infringe on the rights of any third party, or breach these Terms.
 
 
-All user-generated content is subject to moderation and review by Admins within the app. Admins can modify, delete, or manage user contributions to ensure compliance with the Acceptable Use Policy and maintain operational efficiency.
+- All user-generated content is subject to moderation and review by Admins within the app. Admins can modify, delete, or manage user contributions to ensure compliance with the Acceptable Use Policy and maintain operational efficiency.
 
 
 - While PRESHIFTER LLC has the right to use user-generated content as described, it does not claim ownership of such content and respects users' rights. Subject to any applicable data retention or operational requirements, users may request the deletion of their content.
@@ -411,13 +411,13 @@ The failure of PRESHIFTER LLC to enforce any right or provision of these Terms s
 PRESHIFTER LLC reserves the right, at its sole discretion, to modify, suspend, or discontinue any part of the PreShifter app or its services at any time without prior notice. This includes but is not limited to, the introduction of new features, updates to existing functionalities, temporary maintenance, or the permanent removal of specific features or services. While we aim to minimize disruptions and provide timely updates, you acknowledge and agree that PRESHIFTER LLC is not liable for any modifications, suspensions, or discontinuations of the app or its services. When changes are made, we will notify users through one or more of the following methods:
 
 
-Users may receive notifications of changes when they log in to the app.
+- Users may receive notifications of changes when they log in to the app.
 
 
-Registered users may receive updates via the email address associated with their account.
+- Registered users may receive updates via the email address associated with their account.
 
 
-The most current version of the Terms of Service is always available in the app and our website.
+- The most current version of the Terms of Service is always available in the app and our website.
 
 
 Your continued use of the PreShifter app after any modifications have been made signifies your acceptance of the updated Terms. You must review these Terms periodically to stay informed about any changes.
@@ -431,8 +431,13 @@ If you have any questions, concerns, or feedback regarding these Terms of Servic
 
 
 **Company Name:** PRESHIFTER LLC
+
+
 **Address:** 418 Broadway, Suite 5958, Albany, NY 12207
+
+
 **Email:** legal@preshifter.com
 
 
 We are committed to responding to all inquiries promptly and effectively.
+
