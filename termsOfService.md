@@ -51,6 +51,10 @@ PreShifter offers distinct roles with specific access permissions and functional
 **c. Role Modifications and Termination:** The Admin has full authority to modify user roles, approve or deny join requests, and suspend or terminate users’ access to the restaurant’s PreShifter account. Any changes to user roles must comply with these Terms and be made in good faith to facilitate operational efficiency and team collaboration.
 
 
+### 2.4 Profile Privacy Settings
+Users may opt to set their profiles to private within the app. Private profiles are not visible in search results, and only pre-approved connections such as restaurant team memberships or authorized individuals can view such profiles. Users are solely responsible for managing this setting and ensuring it aligns with their intended use of the app. PRESHIFTER LLC does not guarantee that private profiles will prevent all unauthorized access and is not liable for breaches arising from misuse of this feature.
+
+
 ## 3. SCOPE OF SERVICES
 ### 3.1 Team Admin Tools
 The PreShifter app provides robust tools for Admins (typically restaurant owners or managers) to manage their restaurant teams effectively. These tools include:
@@ -232,6 +236,12 @@ To foster an effective and positive communication environment within the app, th
 
 
 - The app's use outside of regular working hours is entirely voluntary and at the discretion of each user. While it may be used to review menu items, stay updated on announcements, or chat with colleagues, users are not obligated to engage during personal time.
+
+
+### 6.5 Reporting Abuse
+Users are encouraged to report any abuse, harassment, or inappropriate content encountered within the app through the customer support feature. Reports must be made in good faith and include sufficient details to assist in investigation and resolution.
+
+PRESHIFTER LLC will review all reports and take appropriate actions, which may include warning, suspending, or terminating accounts involved in violations. Users submitting false or malicious reports may face account suspension or termination. Abuse reports are subject to the app’s Privacy Policy and are handled with confidentiality.
 
 
 ## 7. CONTENT MANAGEMENT
