@@ -1,4 +1,4 @@
-
+<!-- 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -34,6 +34,41 @@
 </head>
 <body>
   <main id="content">
+    {{ content }}
+  </main>
+</body>
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      padding: 2rem;
+      margin: 0;
+      color: #111;
+      background-color: #fdfdfd;
+    }
+    body.dark-mode {
+      color: #fdfdfd;
+      background-color: #1C1C1E;
+    }
+  </style>
+  <script>
+    // Apply dark mode based on the URL fragment
+    const isDarkMode = window.location.hash === "#dark";
+    if (isDarkMode) {
+      document.body.classList.add("dark-mode");
+    }
+  </script>
+</head>
+<body>
+  <main>
     {{ content }}
   </main>
 </body>
