@@ -47,8 +47,20 @@
   </script>
 </head>
 <body>
+  <main id="content">
+    {{ content }}
+  </main>
+  <script>
+    // Check URL for fragment or query parameter
+    const isDarkMode = window.location.hash === "#dark" || new URLSearchParams(window.location.search).get("darkMode") === "true";
+    if (isDarkMode) {
+      document.body.classList.add("dark-mode");
+    }
+  </script>
+</body>
+<!-- <body>
   <main>
     {{ content }}
   </main>
-</body>
+</body> -->
 </html>
